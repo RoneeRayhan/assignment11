@@ -1,0 +1,19 @@
+/* src/components/Hero.css */
+
+.hero {
+    background-image: url('https://img.freepik.com/free-vector/realistic-paper-style-abstract-ornamental-background_79603-2435.jpg?w=2000&t=st=1698472735~exp=1698473335~hmac=c541cf3405613c66b82c4d803f72ce9aaa17a915557d068a5b27229f001d7f5b');
+    background-size: cover;
+    color: white;
+    padding: 100px;
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    font-size: 20px;
+  }
+  
